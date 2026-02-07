@@ -1,0 +1,7 @@
+Machine Learning Overview
+
+    Machine Learning (ML) is a subset of artificial intelligence focused on building systems that learn from data to improve their performance without being explicitly programmed. It bridges the gap between traditional computer science and statistical analysis, allowing for the creation of predictive models and automated decision-making processes.
+
+    The field is generally divided into three primary paradigms: Supervised Learning, where models learn from labeled data; Unsupervised Learning, which finds hidden patterns in unlabeled data; and Reinforcement Learning, which involves agents learning to make decisions by receiving rewards or penalties. Today, ML powers critical technologies ranging from recommendation engines and natural language processing to computer vision and autonomous systems.
+
+    As a field, it is heavily supported by robust Python frameworks like Scikit-learn for classical algorithms, and TensorFlow or PyTorch for deep learning. Its evolution continues to drive innovation in MLOps, enabling developers to build, deploy, and scale intelligent applications that can adapt to new information in real-time. 
